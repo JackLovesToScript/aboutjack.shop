@@ -1,2 +1,2 @@
 # aboutjack.shop
-My website
+My website code READ MIT!
